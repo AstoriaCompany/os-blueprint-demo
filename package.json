@@ -1,0 +1,12 @@
+{
+  "name": "os-blueprint-demo",
+  "version": "1.0.0",
+  "description": "OS Blueprint demo app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
